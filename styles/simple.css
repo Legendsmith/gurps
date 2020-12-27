@@ -1203,7 +1203,7 @@ body {
 #notes {
   display: grid;
   border: 1px solid black;
-  align-content: stretch;
+  align-content: start;
 }
 
 #reactions,
